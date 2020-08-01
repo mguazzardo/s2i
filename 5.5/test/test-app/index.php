@@ -1,9 +1,9 @@
 <html>
 <head>
-	<title>Test PHP passed</title>
+	<title>Examen banco galicia</title>
 </head>
 <body>
-<h1>PHP is working</h1>
+<h1>Hola mundo banco galicia</h1>
 <p>
 <?php
 	phpinfo();
